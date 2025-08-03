@@ -1,0 +1,1 @@
+# GAID: Frame-Level Gated Audio-Visual Integration with Directional perturbation for Text-Video Retrieval
